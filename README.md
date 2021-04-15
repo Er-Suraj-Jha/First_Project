@@ -1,3 +1,3 @@
 # My first forked project
 
-● This project is forked from outsacl.
+● This project is forked from outscal.
